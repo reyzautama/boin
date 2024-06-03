@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "933716608805",
+    "firebase_url": "https://boin-f5684-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "boin-f5684",
+    "storage_bucket": "boin-f5684.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:933716608805:android:85b2bd1f234ddb94357ccc",
+        "android_client_info": {
+          "package_name": "com.example.boin"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC7ScpVUE9b2QPl5H0bAfY6PbPHB5hSgLM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

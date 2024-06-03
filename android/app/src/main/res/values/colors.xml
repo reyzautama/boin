@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Warna Pink -->
+    <color name="pinkPrimary">#FF4081</color> <!-- Primary color, warna dasar aplikasi -->
+    <color name="pinkPrimaryDark">#F50057</color> <!-- Warna gelap untuk area status bar dan toolbar -->
+    <color name="pinkAccent">#FF80AB</color> <!-- Warna aksen yang digunakan untuk menyoroti elemen penting -->
+    <color name="colorAccent">#FF4081</color> <!-- Warna aksen default di Flutter, sesuaikan dengan preferensi Anda -->
+
+    <!-- Variasi Warna -->
+    <color name="pinkLight">#FF80AB</color> <!-- Warna muda, cocok untuk latar belakang dan elemen ringan -->
+    <color name="pinkDark">#C60055</color> <!-- Warna gelap, cocok untuk teks dan elemen gelap -->
+
+    <!-- Tambahkan warna lain yang Anda butuhkan di sini -->
+
+</resources>
